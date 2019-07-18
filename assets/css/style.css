@@ -18,7 +18,10 @@ body {
   margin: 0 auto;
   clear: both;
 }
-
+.link-img {
+  color: white;
+  font-size: 25px;
+}
 h1,
 h2,
 h3,
@@ -132,6 +135,11 @@ h3, h2 {
   margin: 0 0 40px;
   background: #ffffff;
   border: 1px solid #dddddd;
+}
+.card-text{
+  text-align: center;
+  font-size: 20px;
+  
 }
 
 /* portfolio page */
